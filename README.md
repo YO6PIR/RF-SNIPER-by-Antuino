@@ -14,3 +14,5 @@ Compared to the original project, I have made some changes, and I say, some impr
 - I have reconfigured the display of SWR values ​​on the display, limiting it to the value of 9.99 being sufficient for an accurate reading; values ​​above this threshold are no longer readable, therefore, not displayed.
 - In the "PWR" and "SNA" menus, the plotterr is scanned continuously, with the signal that changes in real time being visible. We have also reduced the plotter scan period from 50ms to 20ms.
 - If the cursor is moved on the resulting graph, after pressing the ENTER key this value is stored on the graph center and on the next scan it is taken as the centrally selected frequency. An advantage for multiple frequency scans in wide intervals.
+
+![image](https://github.com/user-attachments/assets/3e9d23f6-8245-4b89-a9dc-0fbe025f48f4)
