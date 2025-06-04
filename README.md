@@ -5,6 +5,7 @@ Frequency scanner with graphical display in the range (0.1 ... 150) MHz inspired
 https:\\www.qsl.net/yo6pir/sniper.html
 
 ![image](https://github.com/user-attachments/assets/d7e8e65a-c6d5-4c29-920f-9ebf5cbcd675)
+
 Compared to the original project, I have made some changes, and I say, some improvements related to maneuverability, as follows:
 
 I have eliminated the encoder as the main control and replaced it with a series of 4 "soft-touch" keys that mainly eliminate the "click" errors of mechanical encoders. The keys are more ergonomic and easier to select, in my opinion.
