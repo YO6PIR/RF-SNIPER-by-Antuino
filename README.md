@@ -16,3 +16,9 @@ Compared to the original project, I have made some changes, and I say, some impr
 - If the cursor is moved on the resulting graph, after pressing the ENTER key this value is stored on the graph center and on the next scan it is taken as the centrally selected frequency. An advantage for multiple frequency scans in wide intervals.
 
 ![image](https://github.com/user-attachments/assets/3e9d23f6-8245-4b89-a9dc-0fbe025f48f4)
+
+UPDATE Ver.2.1
+New software with improvement functions.
+
+<img width="894" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b7ca97c-68c8-40d7-b872-ede5f6402261" />
+
