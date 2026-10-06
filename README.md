@@ -105,7 +105,7 @@ The user interface uses a simple operational layout centered on the scan and sig
 A new software version was introduced with several improvements and refinements.
 
 <p align="center">
-  <img width="700" alt="RF-SNIPER Ver.2.1 interface" src="https://github.com/user-attachments/assets/9b7ca97c-68c8-40d7-b872-ede5f6402261" />
+  <img width="600" height="726" alt="image" src="https://github.com/user-attachments/assets/60d62c84-4532-4368-a8eb-9ab9dc760d61" />
 </p>
 
 This version improves the software behavior and user experience while preserving the original RF scanning concept.
