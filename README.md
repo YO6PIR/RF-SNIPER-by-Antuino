@@ -1,7 +1,8 @@
 # RF-SNIPER by Antuino
 
 <p align="center">
-  <img width="900" alt="RF-SNIPER by Antuino" src="https://github.com/user-attachments/assets/d7e8e65a-c6d5-4c29-920f-9ebf5cbcd675" />
+ <img width="512" height="487" alt="image" src="https://github.com/user-attachments/assets/62785fdf-115f-4717-bc3f-01f04347d740" />
+
 </p>
 
 A compact RF bridge-type frequency scanner inspired by the original Antuino project by Ashhar Farhan (VU2ESE).
